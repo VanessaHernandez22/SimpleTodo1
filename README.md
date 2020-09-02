@@ -4,7 +4,7 @@
 
 Submitted by: **Vanessa Hernandez**
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Using an updated version of android studio requires updated libraries to import.
 
 ## License
 
